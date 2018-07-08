@@ -138,4 +138,4 @@ cv2.imshow('result', result)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-#cv2.imwrite('./output/stitch21.jpeg',result)
+cv2.imwrite('./output/stitch21.jpeg',result)
